@@ -1,0 +1,6 @@
+com/example/demo/KafkaToSolrApplication.class
+com/example/demo/config/SolrConfig.class
+com/example/demo/controller/KafkaSolrController.class
+com/example/demo/model/YourEntity.class
+com/example/demo/repository/YourEntityRepository.class
+com/example/demo/service/KafkaSolrService.class

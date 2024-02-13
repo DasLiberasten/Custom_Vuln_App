@@ -1,0 +1,6 @@
+/home/sikorski/Документы/kafka_container_no_cluster/Spring-Kafka-POC-CVE-2023-34040-main/KafkaToSolr/src/main/java/com/example/demo/controller/KafkaSolrController.java
+/home/sikorski/Документы/kafka_container_no_cluster/Spring-Kafka-POC-CVE-2023-34040-main/KafkaToSolr/src/main/java/com/example/demo/repository/YourEntityRepository.java
+/home/sikorski/Документы/kafka_container_no_cluster/Spring-Kafka-POC-CVE-2023-34040-main/KafkaToSolr/src/main/java/com/example/demo/model/YourEntity.java
+/home/sikorski/Документы/kafka_container_no_cluster/Spring-Kafka-POC-CVE-2023-34040-main/KafkaToSolr/src/main/java/com/example/demo/config/SolrConfig.java
+/home/sikorski/Документы/kafka_container_no_cluster/Spring-Kafka-POC-CVE-2023-34040-main/KafkaToSolr/src/main/java/com/example/demo/service/KafkaSolrService.java
+/home/sikorski/Документы/kafka_container_no_cluster/Spring-Kafka-POC-CVE-2023-34040-main/KafkaToSolr/src/main/java/com/example/demo/KafkaToSolrApplication.java
