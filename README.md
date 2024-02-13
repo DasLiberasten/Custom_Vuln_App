@@ -4,5 +4,3 @@
 * Java 11
 * Maven
 * Docker
-
-## Usage
