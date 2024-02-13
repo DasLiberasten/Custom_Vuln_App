@@ -8,4 +8,4 @@
 * Kafka
 * Clickhouse
 
-Полную инструкцию по развороту можно найти по данной ссылке: https://github.com/SinayDEAD/Custom_Vuln_App_Instructions/tree/main
+Полную инструкцию по развертыванию можно найти по данной ссылке: https://github.com/SinayDEAD/Custom_Vuln_App_Instructions/tree/main
